@@ -1,1 +1,6 @@
 Move links to upper right corner
+
+Add im feeling lucky button
+    Make python code dictate the URL of the href to be the first search result, bypassing the result page
+data-async-context="query:'search_query'
+
